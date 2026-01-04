@@ -1,6 +1,7 @@
 # GAMMA modlist for DX8 and DX9, last edited 2025-12-19
 
 -End
++460- Classic Textures - enixgamer
 +G.A.M.M.A. End of List_separator
 -ZCP 1.5d
 -Petrenka's Improved Russian Translation
